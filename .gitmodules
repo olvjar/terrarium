@@ -1,0 +1,6 @@
+[submodule "cpp"]
+	path = cpp
+	url = git@github.com:olvjar/cpp-tank.git
+[submodule "rust"]
+	path = rust
+	url = git@github.com:olvjar/rust-tank.git
